@@ -1,0 +1,2 @@
+# NexusAI
+Izamu's AI
